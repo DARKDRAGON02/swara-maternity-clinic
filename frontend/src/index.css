@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --color-maternity-50: #fff6f5;   /* Softest warm blush background */
+  --color-maternity-100: #fde7e4;  /* Light rose-petal accent */
+  --color-maternity-200: #fbcbc4;  /* Warm highlight */
+  --color-maternity-600: #d97870;  /* Deep soothing rose for headings */
+  --color-maternity-700: #be5e56;  /* Deep button color */
+  --color-maternity-900: #4a2825;  /* Warm comforting dark text */
+}
